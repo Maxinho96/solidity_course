@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "export SET NODE_OPTIONS=--openssl-legacy-provider && mocha"
   },
   "author": "",
   "license": "ISC",
