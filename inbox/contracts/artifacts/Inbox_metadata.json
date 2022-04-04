@@ -54,7 +54,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/Inbox.sol": "Inbox"
+			"inbox/contracts/Inbox.sol": "Inbox"
 		},
 		"libraries": {},
 		"optimizer": {
@@ -64,7 +64,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/Inbox.sol": {
+		"inbox/contracts/Inbox.sol": {
 			"keccak256": "0xe595a35c3e9fc34473a7475d20c83996ae6728729923dc5522093d62b49da891",
 			"urls": [
 				"bzzr://70219a0f57f241c024f1c2f60a31ba21b0d2e1e01b3e23949d161e7b13737da4"
