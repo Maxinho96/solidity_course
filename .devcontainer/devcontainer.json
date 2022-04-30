@@ -13,7 +13,7 @@
 	},
 	// Set *default* container specific settings.json values on container create.
 	"settings": {
-		"solidity.compileUsingRemoteVersion": "v0.4.17+commit.bdeb9e52"
+		"solidity.compileUsingRemoteVersion": "v0.8.9+commit.e5eed63a"
 	},
 	// Add the IDs of extensions you want installed when the container is created.
 	"extensions": [
